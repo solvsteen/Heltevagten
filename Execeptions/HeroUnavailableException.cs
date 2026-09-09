@@ -1,4 +1,4 @@
-﻿namespace Heltevagten;
+﻿namespace Heltevagten.Execeptions;
 
 /// <summary>Forsøg på at tildele en optaget helt eller en helt uden energi.</summary>
 public class HeroUnavailableException : Exception

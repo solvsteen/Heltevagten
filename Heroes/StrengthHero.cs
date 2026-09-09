@@ -1,4 +1,5 @@
-﻿namespace Heltevagten;
+﻿using Heltevagten.Abilities;
+namespace Heltevagten.Heroes;
 
 /// <summary>En konkret helt med superstyrke.</summary>
 public class StrengthHero : Hero, ISuperStrong

@@ -1,4 +1,5 @@
-﻿namespace Heltevagten;
+﻿using Heltevagten.Abilities;
+namespace Heltevagten.Heroes;
 
 /// <summary>En konkret helt, der kan genoprette en anden helts energi.</summary>
 public class HealingHero : Hero, IHealer

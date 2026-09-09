@@ -1,4 +1,6 @@
-﻿namespace Heltevagten;
+﻿using Heltevagten.Heroes;
+
+namespace Heltevagten.Abilities;
 
 /// <summary>En evne-kontrakt for typer, der kan genoprette andres energi.</summary>
 public interface IHealer

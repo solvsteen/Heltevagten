@@ -1,4 +1,4 @@
-﻿namespace Heltevagten;
+﻿namespace Heltevagten.Abilities;
 
 /// <summary>En evne-kontrakt for typer, der kan løfte tunge genstande.</summary>
 public interface ISuperStrong

@@ -1,4 +1,5 @@
-﻿namespace Heltevagten;
+﻿using Heltevagten.Abilities;
+namespace Heltevagten.Heroes;
 
 
 /// <summary>En konkret helt, der arver fælles regler og implementerer flyveevnen.</summary>

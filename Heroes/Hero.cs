@@ -1,4 +1,4 @@
-﻿namespace Heltevagten;
+﻿namespace Heltevagten.Heroes;
 
 /// <summary>
 /// Fælles tilstand og regler for alle helte. Abstract betyder,
