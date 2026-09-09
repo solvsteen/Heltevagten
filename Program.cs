@@ -1,9 +1,12 @@
-﻿namespace Heltevagten;
+﻿using Heltevagten.UI;
+
+namespace Heltevagten;
 
 class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        // Start programmet
+        ConsoleApplication.Run(args);
     }
 }
